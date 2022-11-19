@@ -3,8 +3,8 @@ Faculty: [FICT](https://fict.itmo.ru)
 Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)  
 Year: 2022/2023  
 Group: K4113c    
-Author: Zhelygin Daniil Yurievich 
-Lab: Lab3  
+Author: Zhelygin Daniil Yurievich                                                                                                                      Lab: Lab3  
+
 
 # "Сертификаты и "секреты" в Minikube, безопасное хранение данных."
 ## Познакомиться с сертификатами и "секретами" в Minikube, правилами безопасного хранения данных в Minikube.
@@ -56,5 +56,7 @@ curl --cacert tls.crt https://onetestexamle.com
 ```
 
 <div align = "center"><img src="https://github.com/Zepeler/Zepeler/blob/main/Lr3/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-11-19%20%D0%B2%2001.21.42.png" ></div>
+
 ## Схема 
-<div align = "center"><img src="https://github.com/Zepeler/Zepeler/blob/main/shema1.2.png" ></div>
+
+<div align = "center"><img src="https://github.com/Zepeler/Zepeler/blob/main/Lr3/img/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0.png" ></div>
