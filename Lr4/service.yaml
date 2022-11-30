@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: indfr-service
+spec:
+  selector:
+    app: http-server
+  ports:
+    - protocol: TCP
+      port: 8080
+      targetPort: 3000
+  type: LoadBalancer
+
