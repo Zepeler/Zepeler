@@ -52,4 +52,4 @@ kubectl apply -f cm.yaml -f deploy.yaml -f service.yaml
 <div align = "center"><img src="https://github.com/Zepeler/Zepeler/blob/main/Lr4/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-11-26%20%D0%B2%2017.59.36.png" ></div>
 
 ## Схема 
-<div align = "https://github.com/Zepeler/Zepeler/blob/main/Lr4/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-12-01%20%D0%B2%2016.53.30.png" ></div>
+<div align = "center"><img src="https://github.com/Zepeler/Zepeler/blob/main/Lr4/img/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202022-12-01%20%D0%B2%2016.53.30.png" ></div>
